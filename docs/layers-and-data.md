@@ -18,6 +18,8 @@ Approximate counts at the time of writing:
 | Climate | Ice-age cycles, Sahara greening, sea level | strips and a readout |
 | Satellite and terrain | Imagery and hillshade | base layers |
 | Road map | A modern road map from open data | base layer |
+| Faith places and sacred sites | Sites that carry tags for the kind of place, the tradition, how sure the identification is, and the text that names it; filterable in the Themes control | more are being added in groups |
+| Submerged landscapes | The drowned river channels of Doggerland in the North Sea basin, off by default | a layer |
 
 Some entries are intentionally marked as speculative (for example, objects whose age or origin is debated). They are shown and labelled, never hidden.
 
@@ -25,14 +27,13 @@ Some entries are intentionally marked as speculative (for example, objects whose
 
 - **Time**: a slider and a window around it (how near a date has to be to count as in focus).
 - **Evidence grade**: show or hide mainstream, disputed and speculative dates.
-- **Tags** (in development): a closed vocabulary of tags lets you ask questions such as "show only places of worship that are identified with certainty". A tag never claims more than the entry's own text.
+- **Tags**: a closed vocabulary of tags lets you ask questions such as "show only places of worship that are identified with certainty". A tag never claims more than the entry's own text.
 
 ## Being added, and planned
 
-Being added, not yet on the live globe:
+Being added:
 
-- **Faith places and sacred sites**, grouped by what the place is (temple, church, mosque, synagogue, shrine and so on), whose it is, how sure its identification is, and which text names it. Neutral wording for every tradition is a requirement, not a nicety.
-- **Submerged landscapes**, such as the lost land and rivers of the North Sea basin.
+- **More faith places and sacred sites**, in groups. The filter and the first tagged places are on the live globe; the rest are added group by group, each grouped by what the place is (temple, church, mosque, synagogue, shrine and so on), whose it is, how sure its identification is, and which text names it. Neutral wording for every tradition is a requirement, not a nicety.
 
 Planned, no dates promised:
 

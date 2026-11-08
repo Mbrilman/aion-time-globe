@@ -26,7 +26,7 @@ Agents are good at the tedious part: finding candidate sources, reading a page a
 
 - A summary that cut a sentence in half to hit a length limit. The rule now requires a finished sentence.
 - Machine captions of photos. A photo-checking project found five failure modes that we now lint for: invented names, misread text, category anchoring, self-contradiction and self-reference.
-- A row that stated "the biblical Armageddon" as a fact, where every source it cited only said "probably" or "most likely". A corrected wording is approved and waiting to go live; when it is, the row will say "most likely" and name the text.
+- A row that stated "the biblical Armageddon" as a fact, where every source it cited only said "probably" or "most likely". The corrected wording is live: the row now says the name is "most likely derived from" the Hebrew Har Megiddo and names the text (Revelation 16:16).
 
 ## What it is not
 

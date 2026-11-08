@@ -37,7 +37,7 @@ Read more: [Evidence and sources](docs/evidence-and-sources.md).
 
 ## What is on the globe today
 
-Roughly 1,500 archaeological and historical sites, several hundred natural disasters and impact structures, about a hundred museums, parks, cities, climate periods, and a political map that changes with the date. Planned layers include ancient royal roads, pilgrimage routes and a careful layer on what ancient DNA says about migration. Faith places and sacred sites, and submerged landscapes such as the North Sea basin, are being added and are not yet on the live globe. No dates are promised. See [Layers and data](docs/layers-and-data.md).
+Roughly 1,500 archaeological and historical sites, several hundred natural disasters and impact structures, about a hundred museums, parks, cities, climate periods, and a political map that changes with the date. Planned layers include ancient royal roads, pilgrimage routes and a careful layer on what ancient DNA says about migration. A filter for faith places and sacred sites and the drowned river channels of the North Sea basin are on the live globe; more faith places are being added in groups. No dates are promised for the planned layers. See [Layers and data](docs/layers-and-data.md).
 
 ## Who is behind it, and why
 
